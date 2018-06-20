@@ -5,7 +5,7 @@ description: This is a repository of globalchange.gov APIs, self-contained as a 
   operations.
 image: http://template.streamdata.gallery/assets/globalchange-gov.png
 created: "2018-02-24"
-modified: "2018-06-19"
+modified: "2018-06-20"
 url: http://globalchange-gov.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
